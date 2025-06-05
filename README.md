@@ -3,8 +3,6 @@ It includes an overview, installation instructions with virtual environment setu
 
 ---
 
-### README.md
-
 ```markdown
 # Predictive Sales Forecasting for Small Businesses
 
@@ -27,7 +25,7 @@ Before running the project, ensure you have the following installed:
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/masrafiul-mahin/predictive-sales-forecasting.git
+git clone https:https://github.com/masrafulislam/Predictive-sales-Forecating-for-small-businesses.git
 cd predictive-sales-forecasting
 ```
 
@@ -132,5 +130,5 @@ Contributions are welcome! If you’d like to contribute:
 
 ## Contact
 For questions or feedback, feel free to reach out:
-- GitHub: [masrafiul-mahin](https://github.com/masrafiul-mahin)
+- GitHub: [masrafiul islam]([(https://github.com/masrafulislam))
 ```
